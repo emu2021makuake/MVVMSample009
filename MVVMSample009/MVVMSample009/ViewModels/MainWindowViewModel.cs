@@ -1,5 +1,5 @@
 ﻿using Microsoft.Toolkit.Mvvm.ComponentModel;
-using MVVMSample009.Model;
+using MVVMSample009.Models;
 using IOC = Microsoft.Toolkit.Mvvm.DependencyInjection.Ioc;
 
 namespace MVVMSample009.ViewModels

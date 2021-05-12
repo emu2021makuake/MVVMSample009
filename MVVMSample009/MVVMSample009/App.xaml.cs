@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using MVVMSample009.Model;
+using MVVMSample009.Models;
 using System.Windows;
 using IOC = Microsoft.Toolkit.Mvvm.DependencyInjection.Ioc;
 
