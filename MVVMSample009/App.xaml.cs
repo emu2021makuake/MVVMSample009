@@ -13,6 +13,11 @@ namespace MVVMSample009
                 new ServiceCollection()
                 .AddSingleton<IFoo, Foo>()
                 .BuildServiceProvider());
+
+            //IServiceCollection sc = new ServiceCollection();
+            //sc.AddSingleton<IFoo, Foo>();
+            //System.IServiceProvider provider = sc.BuildServiceProvider();
+            //IOC.Default.ConfigureServices(provider);
         }
     }
 }
